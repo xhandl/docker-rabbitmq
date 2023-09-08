@@ -13,7 +13,7 @@ Main parametrs can be modified via `.env` file.
 
 Default configuration:
 ```
-IMAGE: rabbitmq:3.11.8-management
+IMAGE: rabbitmq:3-management
 CONTAINER NAME: rabbitmq
 USER: admin
 PASSWORD: admin
